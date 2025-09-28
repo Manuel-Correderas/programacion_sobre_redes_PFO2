@@ -67,31 +67,31 @@ Capturas de pantalla
 A continuación, las 7 capturas ubicadas en la carpeta [`img/`](img):
 
 1. **UI mínima**  
-   [01](/img/img1.jpg)  
+   ![01](img/img1.jpg)  
    UI mínima cargada: formulario de Registro/Login y acción para abrir /tareas.
 
 2. **Login inválido**  
-   [02](/img/img2.jpg)  
+   ![02](img/img2.jpg)  
    Intento de inicio de sesión con credenciales inválidas (respuesta JSON).
 
 3. **Bloqueo sin login**  
-   [03](/img/img3.jpg)  
+   ![03](img/img3.jpg)  
    Acceso directo a /tareas sin autenticación: la interfaz solicita iniciar sesión primero.
 
 4. **Login inválido (reintento)**  
-   [04](/img/img4.jpg)  
+   ![04](img/img4.jpg)  
    Nuevo intento de inicio de sesión con credenciales inválidas.
 
 5. **Registro OK**  
-   [05](/img/img5.jpg)  
+   ![05](img/img5.jpg)  
    Registro exitoso de usuario (mensaje de confirmación JSON).
 
 6. **Login OK + token**  
-   [06](/img/img6.jpg)  
+   ![06](img/img6.jpg)  
    Login exitoso: el backend emite token Bearer y TTL en segundos.
 
 7. **/tareas OK**  
-   [07](/img/img7.jpg)  
+   ![07](img/img7.jpg)  
    Ingreso correcto a /tareas: HTML de bienvenida renderizado y saludo con el usuario.
 
 Deploy en GitHub
