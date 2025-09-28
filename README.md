@@ -20,6 +20,7 @@ Este proyecto implementa una **API REST** con **SQLite** para cumplir los requis
 python -m venv .venv
 source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
+```
 Variables opcionales:
 •	PFO2_DB → ruta del SQLite (default: pfo2.db)
 •	PFO2_SECRET → clave para firmar tokens (¡cambiala en producción!)
@@ -63,7 +64,7 @@ Ventajas de usar SQLite en este proyecto
 •	Rendimiento suficiente para baja concurrencia y desarrollo local.
 •	Transaccional y con ACID, lo que garantiza consistencia.
 
-Capturas de pantalla 
+## CAPTURAS
 A continuación, las 7 capturas ubicadas en la carpeta [`img/`](img):
 
 1. **UI mínima**  
