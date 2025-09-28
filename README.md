@@ -95,9 +95,11 @@ A continuación, las 7 capturas ubicadas en la carpeta [`img/`](img):
    ![07](img/img7.jpg)  
    Ingreso correcto a /tareas: HTML de bienvenida renderizado y saludo con el usuario.
 
-GitHub y Github Pages
-- Repositorio GitHub: https://github.com/Manuel-Correderas/programacion_sobre_redes_PFO2
-- Github Pages: https://manuel-correderas.github.io/programacion_sobre_redes_PFO2/
+## Deploy en GitHub y GitHub Pages
+
+- **Repositorio GitHub**: [programacion_sobre_redes_PFO2](https://github.com/Manuel-Correderas/programacion_sobre_redes_PFO2)  
+- **GitHub Pages**: [manuel-correderas.github.io/programacion_sobre_redes_PFO2](https://manuel-correderas.github.io/programacion_sobre_redes_PFO2/)
+
 
 
 
