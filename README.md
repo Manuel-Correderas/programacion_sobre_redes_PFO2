@@ -95,7 +95,11 @@ A continuación, las 7 capturas ubicadas en la carpeta [`img/`](img):
    ![07](img/img7.jpg)  
    Ingreso correcto a /tareas: HTML de bienvenida renderizado y saludo con el usuario.
 
-Deploy en GitHub
+GitHub y Github Pages
+- Repositorio GitHub: https://github.com/Manuel-Correderas/programacion_sobre_redes_PFO2
+- Github Pages: https://manuel-correderas.github.io/programacion_sobre_redes_PFO2/
+
+
 
 ________________________________________
 © 2025 — PFO 2 Flask + SQLite
